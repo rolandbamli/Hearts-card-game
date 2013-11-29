@@ -1,2 +1,3 @@
-Hearts-card-game
+Hearts
 ================
+Hearts card game, socket programming in C.
